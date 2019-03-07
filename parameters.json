@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "name": {
+            "value": "salesaiaf"
+        },
+        "storageName": {
+            "value": "salesaiafb765"
+        },
+        "location": {
+            "value": "Central US"
+        },
+        "subscriptionId": {
+            "value": "9a5c4b4c-6593-4b3e-9660-26a1e5c8a273"
+        },
+        "pbiUsername": {
+            "value": "pbiUsername"
+        },
+        "pbiPassword": {
+            "value": "pbiPassword"
+        }
+    }
+}
