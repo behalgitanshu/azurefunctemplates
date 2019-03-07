@@ -73,6 +73,12 @@
         },
         "subscriptionId": {
             "type": "string"
+        },
+        "pbiUsername": {
+            "type": "string"
+        },
+        "pbiPassword": {
+            "type": "string"
         }
     },
     "$schema": "http://schema.management.azure.com/schemas/2014-04-01-preview/deploymentTemplate.json#",
