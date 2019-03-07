@@ -2,23 +2,17 @@
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-        "name": {
-            "value": "gitanshuaftest"
+        "sites_salesaiaftestkeyvault_name": {
+            "value": null
         },
-        "storageName": {
-            "value": "gitanshuaftest123"
+        "config_web_name": {
+            "value": null
         },
-        "location": {
-            "value": "Central US"
+        "hostNameBindings_salesaiaftestkeyvault.azurewebsites.net_name": {
+            "value": null
         },
-        "subscriptionId": {
-            "value": "9a5c4b4c-6593-4b3e-9660-26a1e5c8a273"
-        },
-        "pbiUsername": {
-            "value": "secretPbiUsername"
-        },
-        "pbiPassword": {
-            "value": "secretPbiPassword"
+        "sites_salesaiaftestkeyvault_serverFarmId": {
+            "value": null
         }
     }
 }
